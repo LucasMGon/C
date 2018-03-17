@@ -8,6 +8,6 @@ int main(){
   
 	printf("\n%d + %d = %d", n1, n2, n1+n2);
   
-  getchar();
+ 	getchar();
 	return 0;
 }
